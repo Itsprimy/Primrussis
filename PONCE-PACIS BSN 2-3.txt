@@ -1,4 +1,4 @@
-
+<!DOCTYPE HTML>
 <html>
 <head>
 <title></title>
@@ -98,3 +98,4 @@ Pertussis (Whooping Cough) Retrieved from https://www.cdc.gov/pertussis/about/di
  https://www.cdc.gov/pertussis/clinical/treatment.html
 
 <p>•Mayo Foundation for Medical Education and Research. (n.d.-a). Whooping cough. Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/whooping-cough/diagnosis-treatment/drc-20378978
+</html>
